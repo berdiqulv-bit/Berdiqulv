@@ -1,0 +1,6 @@
+{
+  "name": "BILIM MARKAZI PRO",
+  "description": "Bilim Markazi Pro - Ta'lim va boshqaruv ekotizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
